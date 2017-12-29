@@ -1,0 +1,15 @@
+a {
+    display: block;
+    height: 40px;
+    float: left;
+    font-size: 1.2em;
+    padding-right:  0.8em;
+    background: url("images/headerRight.png") no-repeat scroll top right;
+}
+
+a span {
+    background: url("images/headerLeft.png") no-repeat;
+    display: block;
+    line-height: 40px;
+    padding-left: 0.8em;
+}
